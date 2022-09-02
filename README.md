@@ -1,1 +1,2 @@
-# logica-com-C
+# logica-com-C++
+
