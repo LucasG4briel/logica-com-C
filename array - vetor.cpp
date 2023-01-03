@@ -7,19 +7,19 @@ int main(){
 	int x;
 	int vet[4];
 	
-/*1º indice*/	vet[0]=9;
-/*2º indice*/	vet[1]=18;
-/*3º indice*/	vet[2]=27;
-/*4º indice*/	vet[3]=36;
-//o temanho  dele é 4. não significa que ele vai eté o indice 4, pois também sempre começa pelo 0(zero)
+/*1Âº indice*/	vet[0]=9;
+/*2Âº indice*/	vet[1]=18;
+/*3Âº indice*/	vet[2]=27;
+/*4Âº indice*/	vet[3]=36;
+//o temanho  dele Ã© 4. nÃ£o significa que ele vai etÃ© o indice 4, pois tambï¿½m sempre comeï¿½a pelo 0(zero)
 	
 	
-	for(x=0; x<4; x++){//a var "x" recebe o valor do primeiro vetor, depois vais adicionando os valores dos outros vetores até a condição ser satisfeita !!
+	for(x=0; x<4; x++){//a var "x" recebe o valor do primeiro vetor, depois vais adicionando os valores dos outros vetores atï¿½ a condiï¿½ï¿½o ser satisfeita !!
 	
 	cout << vet[x] << "\n";
 }
 	return 0;
 	
-// lá falou a respeito do "sizeof", porém não entendi direito (por mais de ter visto muitas vezes, provavelmente por ele falar termos que eu não entendia) ,então resolvi não colocar. 
+// lï¿½ falou a respeito do "sizeof", porÃ©m nÃ£o entendi direito (por mais de ter visto muitas vezes, provavelmente por ele falar termos que eu nÃ£o entendia) ,entï¿½o resolvi nï¿½o colocar. 
 
 } 
