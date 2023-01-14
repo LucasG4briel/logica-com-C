@@ -74,7 +74,7 @@ int soma2(int n1, int n2){
 
 void elemento(string ele[4]){
 	
-	for(int i=0; i>4; i++){
+	for(int i=0; i<4; i++){
 		
 		cout << ele[i] <<"\n";
 	}
